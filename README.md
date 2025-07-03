@@ -1,11 +1,11 @@
 # Amazon-Web-Scraping
-
+Amazon Web Scraper is a project focused on extracting product data from Amazon to analyze pricing trends and product availability. This data was used to gain insights into market competition and consumer sentiment, supporting e-commerce decision-making and product optimization strategies. Below is the detailed documentation of the scraping process and data handling
 
 # Projects Report
 
 ## A.	Project Overview
 	Project Title: Amazon Web Scraping.
-	Objective: Scrape specific data from amazon web page
+	Objective: Scrape specific data from Amazon webpage
 	Team Members: Daffa Arkananta
 
 ## B.	Data Collection
